@@ -1,1 +1,2 @@
-#!/bin/bash
+#!/bin/bas
+tr 'A' 'Z'"bin | tr 'c' 'e'
